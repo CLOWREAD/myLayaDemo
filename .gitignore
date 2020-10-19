@@ -1,6 +1,6 @@
 .rpt2_cache
-./bin
-./laya
-./libs
-./.laya
-./.vscode
+bin
+laya
+libs
+.laya
+.vscode
